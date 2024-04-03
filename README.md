@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm Anuj Kumar</h1>
+<h1 align="center">Hi 👋, I'm Aniket mishra</h1>
 <h3 align="center">A passionate fullStack developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=anuj777777&label=Profile%20views&color=0e75b6&style=flat" alt="anuj777777" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=samaymishra00&label=Profile%20views&color=0e75b6&style=flat" alt="samaymishra00" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anuj777777" alt="anuj777777" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=samaymishra00" alt="samaymishra00" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/ayushman45679" target="blank"><img src="https://img.shields.io/twitter/follow/ayushman45679?logo=twitter&style=for-the-badge" alt="ayushman45679" /></a> </p>
 
@@ -25,6 +25,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anuj777777&show_icons=true&locale=en&layout=compact" alt="anuj777777" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anuj777777&show_icons=true&locale=en" alt="anuj777777" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=samaymishra00&show_icons=true&locale=en" alt="samaymishra00" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anuj777777&" alt="anuj777777" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=samaymishra00&" alt="samaymishra00" /></p>
